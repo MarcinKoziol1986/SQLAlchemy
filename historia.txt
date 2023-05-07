@@ -1,0 +1,16 @@
+2022-01-01 saldo 3000
+2022-01-02 sprzedaz rower 5 5000.0
+2022-01-03 zakup smar 500 5000.0
+2022-01-04 saldo 2500
+2022-01-05 Zakup: smar, cena: 10.0, iloœæ: 10
+2022-01-06 Zmiana salda: 500.0
+2022-01-07 Zmiana salda: 500.0
+2022-01-08 Zakup: rower, cena: 1000.0, iloœæ: 1
+2022-01-09 Sprzeda¿: rower, cena: 2000.0, iloœæ: 1
+2022-01-10 Zmiana salda: 500.0
+2022-01-11 Zmiana salda: 20.0
+2022-01-12 Zakup: rower, cena: 1000.0, iloœæ: 2
+2022-01-13 Sprzeda¿: rower, cena: 3000.0, iloœæ: 1
+2022-01-14 Zmiana salda: 508965.45
+2023-05-07 Zakup: rower, cena: 1000.0, iloœæ: 1
+
